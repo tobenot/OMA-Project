@@ -1,0 +1,9 @@
+@dig: Extra switch "/typeclass" ignored.
+Created room typeclasses.rooms.ForestRoom 密林边缘(#81) of type typeclasses.rooms.Room.
+@dig: Extra switch "/typeclass" ignored.
+Created room typeclasses.rooms.ForestRoom 林间空地(#82) of type typeclasses.rooms.Room.
+@dig: Extra switch "/typeclass" ignored.
+Created room typeclasses.rooms.ForestRoom 古树之下(#83) of type typeclasses.rooms.Room.
+Added tag 'forest_spawn_point' to typeclasses.rooms.ForestRoom 密林边缘.
+Added tag 'forest_spawn_point' to typeclasses.rooms.ForestRoom 林间空地.
+Added tag 'forest_spawn_point' to typeclasses.rooms.ForestRoom 古树之下.

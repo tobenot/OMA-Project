@@ -65,7 +65,7 @@ except ImportError:
 GLOBAL_SCRIPTS = {
     "needs_system": {  # 这个键名 "needs_system" 会成为脚本在游戏中的默认key
         "typeclass": "scripts.needs_system.NeedsSystem",  # 指向脚本类的Python路径
-        "interval": 1,  # 脚本的 at_repeat() 方法被调用的时间间隔（秒）
+        "interval": 60,  # 脚本的 at_repeat() 方法被调用的时间间隔（秒）
         "repeats": -1,   # 脚本重复执行的次数。-1 代表无限次重复
         "desc": "Manages character needs.",
         # "obj": some_object, # （可选）如果脚本需要绑定到特定对象而不是纯全局

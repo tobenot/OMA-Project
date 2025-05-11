@@ -4,9 +4,6 @@ create wildman shengrou
 connect stoneaxe shiqishiqi
 create stoneaxe shiqishiqi
 
-connect bonespear shouli
-create bonespear shouli
-
 connect beastskin shengcun
 create beastskin shengcun
 
