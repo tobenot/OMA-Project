@@ -1,0 +1,1 @@
+@"D:\GitRep\OMA-Project\evenv\Scripts\python.exe" "D:\GitRep\OMA-Project\evenv\Scripts\evennia_launcher.py" %*
