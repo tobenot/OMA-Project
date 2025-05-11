@@ -9,4 +9,10 @@
         Linux/macOS: $ source evenv/bin/activate
         Windows: $ evenv\Scripts\activate 激活后，你的终端提示符通常会显示虚拟环境的名称。
 
-        
+
+要更新已安装的 Evennia 到最新版本，可以使用以下命令 ：
+ 
+$ pip install --upgrade evennia
+
+
+quell 命令：作为超级用户，你拥有绕过游戏内限制的能力。为了以普通玩家的视角体验游戏或测试权限设置，你可以使用 quell 命令来临时压制你的超级用户权限。再次输入 unquell (或有时仅需 quell 再次切换) 可以恢复这些权限 。   
