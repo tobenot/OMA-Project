@@ -75,3 +75,5 @@ GLOBAL_SCRIPTS = {
 }
 
 BATCHCODE_PATHS = ["world","world.map", "evennia.contrib", "evennia.contrib.tutorials"]
+
+DEFAULT_HOME = "#262" # 林间空地(#262)
