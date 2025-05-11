@@ -1,0 +1,44 @@
+connect wildman shengrou
+create wildman shengrou
+
+connect stoneaxe shiqishiqi
+create stoneaxe shiqishiqi
+
+connect bonespear shouli
+create bonespear shouli
+
+connect beastskin shengcun
+create beastskin shengcun
+
+connect campfire huozhong
+create campfire huozhong
+
+connect caveman heiye
+create caveman heiye
+
+connect roarer paoxiao
+create roarer paoxiao
+
+connect bloodfang yinshui
+create bloodfang yinshui
+
+connect hunter01 guitou
+create hunter01 guitou
+
+connect stalkerx hanleng
+create stalkerx hanleng
+
+connect ancestor toteng
+create ancestor toteng
+
+connect sonofearth caoyao
+create sonofearth caoyao
+
+connect wastewolf weixian
+create wastewolf weixian
+
+connect obsidian shiqi
+create obsidian shiqi
+
+connect vineclimber shengcun
+create vineclimber shengcun

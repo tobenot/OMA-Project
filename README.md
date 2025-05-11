@@ -16,3 +16,7 @@ $ pip install --upgrade evennia
 
 
 quell 命令：作为超级用户，你拥有绕过游戏内限制的能力。为了以普通玩家的视角体验游戏或测试权限设置，你可以使用 quell 命令来临时压制你的超级用户权限。再次输入 unquell (或有时仅需 quell 再次切换) 可以恢复这些权限 。   
+
+开管理员权限
+perm *stoneaxe = Developer (Developer 权限组通常包含超级用户权限)
+*表示给账户而不是给角色
