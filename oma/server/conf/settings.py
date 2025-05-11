@@ -73,3 +73,5 @@ GLOBAL_SCRIPTS = {
         # "persistent": True, # （可选）通常全局脚本都应持久化，这也是默认行为。脚本内部的 self.persistent = True 也会确保这点。
     }
 }
+
+BATCHCODE_PATHS = ["world","world.map", "evennia.contrib", "evennia.contrib.tutorials"]
